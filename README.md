@@ -1,16 +1,15 @@
-## Hi there 👋
+## Forte abraço 🤗
 
-<!--
-**letipera/letipera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Letícia Pereira 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://github.com/user-attachments/assets/1b1b6193-afec-4623-a2bf-8d5b22ce8dfd)
+
+
+- Estamos nos desenvolvendo na linguagem HTML e CSS
+- Sou professora de Tecnologia e inovação e estou estudando na [Alura](https://www.alura.com.br/) junto com os meus alunos
+- Estamos nos desenvolvendo na linguagem HTML e CSS
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+## Você pode entrar em contato comigo📫
+leticiarafael@professor.educacao.sp.gov.br
